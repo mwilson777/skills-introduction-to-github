@@ -5,3 +5,4 @@ Let's review:
 - I am learning github
 - I am moving on to the next lesson
 - I have much more to learn
+- Let's see how this works on desktop
